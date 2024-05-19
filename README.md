@@ -2,6 +2,8 @@
 
 discord-banners is a powerful package It is an easy-to-use module where you can see the banner of Discord members!
 
+Also this bot has been updated from v12 to v14 and all bugs have been fixed.
+
 ```js
 const { Client } = require('discord.js');
 const client = new Client();
